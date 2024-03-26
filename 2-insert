@@ -1,2 +1,0 @@
-//Script that inserts a  documnet in the collection school
-db.school.insert({name: "Holberton School});
